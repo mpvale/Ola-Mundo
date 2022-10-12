@@ -1,2 +1,2 @@
 # Olá, Mundo!
- Primeiro repositório do cursoo do Guanabara
+ Primeiro repositório do curso do Guanabara
